@@ -1,3 +1,3 @@
 
-def test_check_calculation_order():
-    assert 2+2*2 == 6
+def test_check_calc():
+    assert 2+(2*2) == 6
